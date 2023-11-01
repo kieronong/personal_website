@@ -96,7 +96,7 @@ Error generating stack: `+o.message+`
   display: inline;
 `,va=W.span`
   font-weight: 900;
-`,Gm=()=>R.jsx(Wm,{initialAnimationTime:ma,children:R.jsxs(Qm,{children:[R.jsx(Ym,{children:"morning, ☀️"}),R.jsxs(Km,{children:["i’m"," ",R.jsx(va,{children:"kieron"}),", and i’m a"," ",R.jsx(va,{children:R.jsx(Bm,{words:Vm,initialAnimationTime:ma,regularAnimationTime:Hm})})]})]})}),Xm="/assets/profile-ea529d1f.jpg",Zm=W.div`
+`,Gm=()=>R.jsx(Wm,{initialAnimationTime:ma,children:R.jsxs(Qm,{children:[R.jsx(Ym,{children:"morning, ☀️"}),R.jsxs(Km,{children:["i’m"," ",R.jsx(va,{children:"kieron"}),", and i’m a"," ",R.jsx(va,{children:R.jsx(Bm,{words:Vm,initialAnimationTime:ma,regularAnimationTime:Hm})})]})]})}),Xm="/personal_website/assets/profile-ea529d1f.jpg",Zm=W.div`
   display: flex;
   flex-direction: column;
   align-items: center;
